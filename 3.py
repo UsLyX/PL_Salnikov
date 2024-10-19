@@ -1,4 +1,4 @@
-def sum(a, b, c)
+def sum(a, b, c):
  return (a + b + c)
 
 a = int(input('Введите 1-е число: '))
